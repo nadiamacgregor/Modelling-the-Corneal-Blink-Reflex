@@ -1,6 +1,6 @@
 # Modelling the Corneal Blink Reflex Circuitry Using a Neural Network 
 
-**Purpose**: Accurate models of human circuits can provide research tools that allow for neuron level investigation into human anatomy without invasive and expensive real human reserach. 
+**Purpose**: Accurate models of human circuits can provide research tools that allow for neuron level investigation into human anatomy without invasive and expensive real human reserach. This project develops a simple neural network model of the corneal blink reflex circuitry that could be used to test scientific inquires into the reflex and its underlying ciruitry. 
 
 **Methodology Summary:** 
 1) Creation of 4-layer neural network
